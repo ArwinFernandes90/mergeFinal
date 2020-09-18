@@ -1,3 +1,1 @@
 Hello Welcome to GIT Hub testing
-Testing for conflict merging
-
