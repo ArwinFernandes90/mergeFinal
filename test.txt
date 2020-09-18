@@ -1,1 +1,2 @@
 Hello Welcome to GIT Hub testing
+Merge with different data in test.txt file
